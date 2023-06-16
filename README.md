@@ -1,4 +1,4 @@
-### Hi there 👋
+### 人生没有捷径， 就像去二线桥要走成华大道。
 
 <!--
 **guo-zi-xin/guo-zi-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
