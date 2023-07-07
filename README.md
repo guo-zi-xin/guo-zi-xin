@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 -   🛠  I’m currently working use Vue, JavaScript TypeScript
 -   🌱 I’m currently learning JS and English
 -   🎮 I like playing games with my friends
--   📫 relation me 跟5582612950@163.com
+-   📫 relation me g15582612950@163.com
 
